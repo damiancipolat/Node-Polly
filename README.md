@@ -28,3 +28,8 @@ Go to the folder /config/default.json to change the configuration file.
 }
   ```   
 
+## Examples:
+
+** text to .MP3 **: Convert a single text into an audio mp3 file.
+
+** text_to_s3 **: Convert a single text, get the audio stream and upload it into a s3 bucket.
