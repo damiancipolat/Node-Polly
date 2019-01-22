@@ -3,7 +3,7 @@ const config = require('config');
 const uuidv1 = require('uuid/v1');
 const fs     = require('fs');
 
-AWS.config.loadFromPath('./config.json');
+//AWS.config.loadFromPath('./config.json');
 
 // Create an Polly client
 const polly = new AWS.Polly({
