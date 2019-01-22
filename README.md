@@ -31,5 +31,9 @@ Go to the folder /config/default.json to change the configuration file.
 ## Examples:
 
 **text to .MP3**: Convert a single text into an audio mp3 file.
+  ```node text_to_mp3.js
+  ```  
 
 **text_to_s3**: Convert a single text, get the audio stream and upload it into a s3 bucket.
+  ```node text_to_mp3.js
+  ```  
