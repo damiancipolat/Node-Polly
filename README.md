@@ -39,3 +39,9 @@ Go to the folder /config/default.json to change the configuration file.
   ```js
   node texto_to_s3.js
   ```  
+  
+
+**ssml_to_mp3**: Convert the voice of the tts of a text that uses SSML.
+  ```js
+  node ssml_to_mp3.js
+  ```    
