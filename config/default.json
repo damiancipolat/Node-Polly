@@ -1,0 +1,15 @@
+{
+	"region":"us-east-1",
+	"tts":{
+		"voice":"Emma"
+	},
+	"output":{
+		"s3":{
+			"bucket":"",
+			"key":""			
+		},
+		"local":{
+			"path":"./mp3"
+		}
+	}
+}
