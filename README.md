@@ -37,7 +37,7 @@ Go to the folder /config/default.json to change the configuration file.
 
 **text_to_s3**: Convert a single text, get the audio stream and upload it into a s3 bucket.
   ```js
-  node texto_to_s3.js
+  node text_to_s3.js
   ```  
   
 
